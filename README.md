@@ -27,3 +27,7 @@
 # Listando contatos que tenham parte de um nome
 1. Digite 5 para escolher a opção de listar contatos que tenha parte de um nome. Se for digitado opções que não fazem parte do menu, será impressa a mensagem de erro: <style="color:red">opção inválida</style>.
 2. Digite a parte de nome que deseja buscar. Senão houver nenhum contato com a parte do nome, será impressa a mensagem de erro: <style="color:red">nenhum contato encontrado</style>.
+
+{::nomarkdown}
+<style="color:red">opa</style>
+{:/}
