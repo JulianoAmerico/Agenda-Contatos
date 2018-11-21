@@ -2,7 +2,7 @@
 É uma aplicação para criar, editar, excluir e buscar contatos na agenda.
 
 # Como executar?
-1. Faça o download dos arquivos AgendaDeContatos.jar e execute.bat, salve-os dentro da Pasta AgendaDeContatos no diretório C:\.
+1. Faça o download dos arquivos AgendaDeContatos.jar e execute.bat, salve-os dentro da Pasta AgendaDeContatos no diretório C:\\.
 2. Dentro do arquivo AgendaDeContatos clique no execute.bat e o jogo é executado no DOS.
 
 # Criando um contato
